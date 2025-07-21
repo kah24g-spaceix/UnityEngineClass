@@ -1,0 +1,18 @@
+<Textdata>
+	<Text ID="POKEMON_ENCOUNTER">앗, 야생의 {0}이(가) 나타났다!</Text>
+	<Text ID="POKEMON_GO">가라, {0}!!</Text>
+	<Text ID="POKEMON_FAINT">{0}는(은) 쓰러졌다.</Text>
+	<Text ID="POKEMON_CHANGE">교체다, {0}!!</Text>
+	
+	<Text ID="SKILL_USE">{0}의 {1}!!</Text>
+	<Text ID="SKILL_FAIL">그러나 실패하고 말았다...</Text>
+	<Text ID="SKILL_HIT_GREAT">효과가 굉장했다!</Text>
+	<Text ID="SKILL_HIT_NORMAL">효과가 보통인 듯 하다</Text>
+	<Text ID="SKILL_HIT_NOEFFECT">효과가 없는 것 같다...</Text>
+	<Text ID="SKILL_HIT_CRITICAL">급소에 맞았다!</Text>
+
+	<Text ID="MESSAGE_WHAT_TO_DO">무엇을 할까?</Text>
+	<Text ID="MESSAGE_GAME_WIN">전투에서 승리했다!</Text>
+	<Text ID="MESSAGE_GAME_LOSE">전투에서 패배했다!</Text>
+	<Text ID="MESSAGE_GAME_LOSE_2">눈앞이 캄캄해졌다...</Text>
+</Textdata>

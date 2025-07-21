@@ -1,0 +1,30 @@
+<dialog>
+	<line talker="A" sprite="Portrait_A">안녕하세요!</line>
+	<line talker="A" sprite="Portrait_A">반갑습니다.</line>
+	<line talker="B" sprite="Portrait_B">안녕하세요!</line>
+	<line talker="B" sprite="Portrait_B">반갑습니다.</line>
+	<line talker="C" sprite="Portrait_C" text="어떤 것을 고를까?">
+		<select text="선택지 A">
+			<line talker="A" sprite="Portrait_A">안녕하세요! 선택지 A입니다.</line>
+			<line talker="A" sprite="Portrait_A">반갑습니다. 선택지 A입니다.</line>
+			<line talker="B" sprite="Portrait_B">안녕하세요! 선택지 A입니다.</line>
+			<line talker="B" sprite="Portrait_B">반갑습니다. 선택지 A입니다.</line>
+			<line talker="C" sprite="Portrait_C" text="또 어떤 것을 고를까?">
+				<select text="선택지 A-A">
+					<line talker="A" sprite="Portrait_A">안녕하세요! 선택지 A-A입니다.</line>
+					<line talker="A" sprite="Portrait_A">반갑습니다. 선택지 A-A입니다.</line>
+				</select>
+				<select text="선택지 A-B">
+					<line talker="B" sprite="Portrait_B">안녕하세요! 선택지 A-B입니다.</line>
+					<line talker="B" sprite="Portrait_B">반갑습니다. 선택지 A-B입니다.</line>
+				</select>
+			</line>
+		</select>
+		<select text="선택지 B">
+			<line talker="A" sprite="Portrait_A">안녕하세요! 선택지 B입니다.</line>
+			<line talker="A" sprite="Portrait_A">반갑습니다. 선택지 B입니다.</line>
+			<line talker="B" sprite="Portrait_B">안녕하세요! 선택지 B입니다.</line>
+			<line talker="B" sprite="Portrait_B">반갑습니다. 선택지 B입니다.</line>
+		</select>
+	</line>
+</dialog>

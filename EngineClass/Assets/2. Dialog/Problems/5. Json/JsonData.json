@@ -1,0 +1,21 @@
+[
+    {"Talker": "A","Sprite": "Portrait_A","Text": "안녕하세요"},
+    {"Talker": "B","Sprite": "Portrait_B","Text": "반갑습니다"},
+    {"Talker": "C","Sprite": "Portrait_C","Text": "1234567890"},
+    {
+        "Talker": "C","Sprite": "Portrait_C","Text": "선택",
+        "Options":     
+        [   
+            [
+                {"Text": "선택지A"},
+                {"Talker": "A","Sprite": "Portrait_A","Text": "선택지A"},
+                {"Talker": "A","Sprite": "Portrait_A","Text": "반갑습니다"}
+            ],
+            [
+                {"Text": "선택지B"},
+                {"Talker": "B","Sprite": "Portrait_A","Text": "선택지B"},
+                {"Talker": "A","Sprite": "Portrait_A","Text": "반갑습니다"}
+            ]
+        ]
+    }
+]

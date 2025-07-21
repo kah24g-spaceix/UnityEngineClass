@@ -1,0 +1,6 @@
+<diallog>
+    <line talker = "A" sprite="Protrait_A">1안녕</line>
+    <line talker = "B" sprite="Protrait_B">2안녕</line>
+    <line talker = "C" sprite="Protrait_C">3안녕</line>
+	
+</diallog>
