@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adc64a46f4b5c9a408d72e61cadbe7f2, type: 3}
+  m_Name: GameTableAsset
+  m_EditorClassIdentifier: 
+  m_dataTable:
+    m_rowById:
+      datas:
+      - Key: 10001
+        Value:
+          m_ID: 10001
+          m_GameID: 1
+          m_GameScore: 100
+          m_GameName: "\uAE40"
+      - Key: 10002
+        Value:
+          m_ID: 10002
+          m_GameID: 2
+          m_GameScore: 101
+          m_GameName: "\uC774"
+      - Key: 10003
+        Value:
+          m_ID: 10003
+          m_GameID: 3
+          m_GameScore: 102
+          m_GameName: "\uBC15"
+      - Key: 10004
+        Value:
+          m_ID: 10004
+          m_GameID: 4
+          m_GameScore: 103
+          m_GameName: "\uC218"
+      - Key: 10005
+        Value:
+          m_ID: 10005
+          m_GameID: 5
+          m_GameScore: 104
+          m_GameName: "\uBAA8"
+      - Key: 10006
+        Value:
+          m_ID: 10006
+          m_GameID: 6
+          m_GameScore: 105
+          m_GameName: "\uB974"
+      - Key: 10007
+        Value:
+          m_ID: 10007
+          m_GameID: 7
+          m_GameScore: 106
+          m_GameName: "\uACA0"
+      - Key: 10008
+        Value:
+          m_ID: 10008
+          m_GameID: 8
+          m_GameScore: 107
+          m_GameName: "\uB2E4"
+      - Key: 10009
+        Value:
+          m_ID: 10009
+          m_GameID: 9
+          m_GameScore: 108
+          m_GameName: "\uBBC0"

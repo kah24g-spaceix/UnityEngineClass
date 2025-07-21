@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac7dbcebd39e054395a06f4ca6c310d, type: 3}
+  m_Name: TestTableAsset
+  m_EditorClassIdentifier: 
+  m_dataTable:
+    m_rowById:
+      datas:
+      - Key: 10001
+        Value:
+          m_ID: 10001
+          m_Name: "\uAE40\uAE40\uAE40ni"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10002
+        Value:
+          m_ID: 10002
+          m_Name: "\uC774\uC774\uC774"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10003
+        Value:
+          m_ID: 10003
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10004
+        Value:
+          m_ID: 10004
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10005
+        Value:
+          m_ID: 10005
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10006
+        Value:
+          m_ID: 10006
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10007
+        Value:
+          m_ID: 10007
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10008
+        Value:
+          m_ID: 10008
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10009
+        Value:
+          m_ID: 10009
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10010
+        Value:
+          m_ID: 10010
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10011
+        Value:
+          m_ID: 10011
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10012
+        Value:
+          m_ID: 10012
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10013
+        Value:
+          m_ID: 10013
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10014
+        Value:
+          m_ID: 10014
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10015
+        Value:
+          m_ID: 10015
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10016
+        Value:
+          m_ID: 10016
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10017
+        Value:
+          m_ID: 10017
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10018
+        Value:
+          m_ID: 10018
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10019
+        Value:
+          m_ID: 10019
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10020
+        Value:
+          m_ID: 10020
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
+      - Key: 10021
+        Value:
+          m_ID: 10021
+          m_Name: "\uAE40\uAE40\uAE40"
+          m_Attack: 100
+          m_Deffence: 100
+          m_Lore: "\u3141\u3134\u3147\u3139"
